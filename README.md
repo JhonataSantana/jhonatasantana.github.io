@@ -1,7 +1,7 @@
 ### Aluno: Jhonata Santana Louzada de Aguiar
 ### RA: 11201811899
 ---
-# `Projeto 1 -> Jetpack`
+# Projeto 1 -> Jetpack
 
 O projeto foi feito para "simular" o jogo no estilo Jetpack Joyride (Infinite Runner) disponível em diversos dispositivos.
 
